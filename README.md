@@ -7,7 +7,7 @@
            #%%%%#%%@@@@@@@@@  - 👀 I’m interested in [sports, renaissance dutch masters, video games, basketball, fashion, memes]
           +@@@@@@@@@@@#*+=++  
     .-==*@@@@@@@@@@@%+--::::  - 🌱 I’m currently learning C++ , Java, Rust
-  =%@@@@@@@@@@@@@@@@=-=---::  
+  =%@@@@@@@@@@@@@@@@=-=---  
  .@@@@@@@@@@@@@@@@@*==+-----  - 💞️ I’m looking to collaborate on anything innovative  
   *@@@@@@@@@@@@@@@#+=+*==---
    #@@@@@@@@@@@@@#+*++*==---  - 📫 How to reach me rambudavincent0@gmail.com
