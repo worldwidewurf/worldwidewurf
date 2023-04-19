@@ -1,6 +1,6 @@
 ![IMAGE!](vermeer.jpg)
 - 👋 Hi, I’m @worldwidewurf/Rambuda Ondwela
-- 👀 I’m interested in [sports, renaissance dutch masters, video games, basketball, fashion, memes]
+- 👀 I’m interested in [sports, art, video games, basketball, fashion, memes]
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything innovative  
 - 📫 How to reach me rambudavincent0@gmail.com
