@@ -1,7 +1,7 @@
 ![IMAGE!](vermeer.jpg)
 # Hi, I'm Rambuda Ondwela! :wave:
 
-I am a multi-talented individual with a passion for **technology**, **sports**, **fashion**, **video games**, **memes**, and the **arts**. I specialize in programming languages such as  `Python`, `Java`,`SQL`, a little bit of `C++`,`HTML`, `CSS`, and `JavaScript`, and I enjoy creating software solutions for real-world problems. I also have experience working with `Restful API's` with python FastAPI, `numpy`, `Linux`, `jupyter notebook` with python, open-computer-vision(CV), and open-source technologies.
+I am an individual with a passion for **technology**, **sports**, **fashion**, **video games**, **memes**, and the **arts**. I specialize in programming languages such as  `Python`, `Java`,`SQL`, a little bit of `C++`,`HTML`, `CSS`, and `JavaScript`, and I enjoy creating software solutions for real-world problems. I also have experience working with `Restful API's` with python FastAPI, `numpy`, `Linux`, `jupyter notebook` with python, open-computer-vision(CV), and open-source technologies.
 
 
 When I'm not coding, I can often be found playing video games, browsing memes, or staying up to date with the latest fashion trends. I have a keen interest in pop culture and believe that it's important to stay connected with what's happening in the world.
